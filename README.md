@@ -207,16 +207,3 @@ def predict(X):
 3. **Network flow data has fundamental limits** — Application-layer attacks require deeper inspection beyond flow statistics.
 
 4. **SMOTE works for extremely rare classes** — Heartbleed went from 11 samples to 100% detection with synthetic oversampling.
-
----
-
-## Acknowledgments
-
-- **Dataset**: Canadian Institute for Cybersecurity (CIC), University of New Brunswick
-- **Reference**: Sharafaldin, I., Lashkari, A.H., & Ghorbani, A.A. (2018). Toward Generating a New Intrusion Detection Dataset and Intrusion Traffic Characterization.
-
----
-
-## License
-
-MIT License
